@@ -1,2 +1,4 @@
 # hello-world
-This is my first repository
+My name is Steffen
+and this is my first file. 
+Yaaaay
